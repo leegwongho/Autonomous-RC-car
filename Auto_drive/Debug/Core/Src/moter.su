@@ -1,0 +1,10 @@
+../Core/Src/moter.c:14:6:PWM_Init	8	static
+../Core/Src/moter.c:20:6:FORWARD	8	static
+../Core/Src/moter.c:36:6:BACKWARD	8	static
+../Core/Src/moter.c:52:6:RIGHTTURN	8	static
+../Core/Src/moter.c:68:6:LEFTTURN	8	static
+../Core/Src/moter.c:84:6:PAUSE	8	static
+../Core/Src/moter.c:94:6:STOP	8	static
+../Core/Src/moter.c:107:6:START_while	16	static
+../Core/Src/moter.c:189:6:START	8	static
+../Core/Src/moter.c:285:6:SPEED	4	static

@@ -1,0 +1,4 @@
+../Core/Src/ultrasonic.c:31:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/ultrasonic.c:131:6:HCSR04_read_ch1	8	static
+../Core/Src/ultrasonic.c:144:6:HCSR04_read_ch2	8	static
+../Core/Src/ultrasonic.c:155:6:HCSR04_read_ch3	8	static
