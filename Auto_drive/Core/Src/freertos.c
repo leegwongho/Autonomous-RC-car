@@ -157,7 +157,7 @@ void StartDefaultTask(void *argument)
   {
 
 	  if (pwmFlag == 1){
-	  START_while();
+	  START();
   	  }
     osDelay(1);
   }
